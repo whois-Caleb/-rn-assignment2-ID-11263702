@@ -31,4 +31,4 @@ Made the name in the text bold by creating a 'name' component in the stylesheet 
 
 
 
-![Alt text](assets\photo_2024-05-26_16-11-20.jpg "App Screenshot")
+![Alt text](assets/photo_2024-05-26_16-11-20.jpg "App Screenshot")
