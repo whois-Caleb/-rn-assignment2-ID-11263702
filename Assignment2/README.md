@@ -29,6 +29,6 @@ Assigned its style attribute to 'name' component of stylesheet.
 
 Made the name in the text bold by creating a 'name' component in the stylesheet and assigning the 'fontWeight' value to 'bold'.
 
-
+## App Screenshot
 
 ![Alt text](assets/photo_2024-05-26_16-11-20.jpg "App Screenshot")
